@@ -127,3 +127,13 @@ print(A+B*C)
 
 # kahin integer or float dono k darmiyan arthmetic opretion ho to result hamesha flot ayega
 
+
+# 5 Nov 2025
+# in chezon ki tafseel leni hai
+# prototype
+# thinking
+#speckit-plus
+#ai develoment have three main types
+#ai assistant development
+#ai driven development
+#ai native development
