@@ -125,5 +125,5 @@ C = 4
 print(A+B*C)
 # ans is ---> 14 q k * pehly dekha jaega.
 
-# kaahin integer or float dono k darmiyan arthmetic opretion ho to result hamesha flot ayega
+# kahin integer or float dono k darmiyan arthmetic opretion ho to result hamesha flot ayega
 
